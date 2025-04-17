@@ -1,5 +1,7 @@
 # Sport Plus 🏋️‍♂️
 
+![Sport Plus App](assets/images/App.png)
+
 Sport Plus est une application mobile développée avec Expo qui vous permet de suivre vos séances d'entraînement sportif. L'application offre un suivi complet de vos exercices, qu'ils soient terminés ou abandonnés, avec la possibilité d'ajuster la difficulté selon vos besoins.
 
 ## Fonctionnalités
