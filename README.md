@@ -55,7 +55,3 @@ Une fois l'application lancée :
 - React Native
 - TypeScript
 - Expo Router
-
-## Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
